@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Agustin (@asobralr)
-- 👀 I’m interested in mobile app development using React Native
-- 🌱 I’m currently learning Typescript, IoT and UI for web3 implementations
-- 💞️ I’m co-founder and lead developer at Gurudevelopers (gurudevelopers.dev)
-- 📫 How to reach me: agustin@gurudevelopers.dev
+- 👋 Hi, I'm Agustin (@asobralr)
+- 👨‍💻 Passionate about building high-quality mobile apps with React Native
+- 🧠 Currently exploring MCPs and the world of AI agent development
+- 🚀 Co-founder & lead developer at Gurudevelopers (https://gurudevelopers.dev)
+- 📬 Reach me at: agustin@gurudevelopers.dev
